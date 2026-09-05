@@ -1,6 +1,6 @@
 # GrowthSystems 
 
-Modern, high-performance landing page for **GrowthSystems**, designed to communicate scalable, low-latency adtech infrastructure with a clean, engineering-first aesthetic.
+A Modern, high-performance landing page for **GrowthSystems**, designed to communicate scalable, low-latency adtech infrastructure with a clean, engineering-first aesthetic.
 
 This project is built as a **static website** using plain HTML, CSS, and JavaScript, and is deployed via **Netlify**.
 
